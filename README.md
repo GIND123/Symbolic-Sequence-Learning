@@ -87,6 +87,9 @@ For each test equation:
 3. **GP-only baseline**: Random initial population (same hyperparameters)
 4. Compare NMSE and R² across all three methods
 
+
+<img width="1590" height="490" alt="image" src="https://github.com/user-attachments/assets/94480e0e-1de3-45bd-bcc2-ff51de0e0822" />
+
 ---
 
 ## Project Structure
