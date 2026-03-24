@@ -137,7 +137,7 @@ python train.py --csv FeynmanEquations.csv --data_dir Feynman_with_units
 
 ---
 
-## Proposed Improvements for GSoC Project
+## Proposed Improvements
 
 1. **Synthetic data pretraining**: Train on 100K+ randomly generated expressions before fine-tuning on Feynman — addresses the core data scarcity bottleneck
 2. **Constrained beam search**: Mask invalid tokens at each decoding step using prefix arity rules to guarantee syntactically valid candidates
