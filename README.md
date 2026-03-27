@@ -115,11 +115,11 @@ For each test equation:
 ## Quick Start
 
 ### Google Colab (recommended)
-1. Upload `notebooks/gsoc_notebook.py` to Colab
+1. Upload `notebooks/notebook.py` to Colab
 2. Enable GPU runtime
 3. Update the two path variables at the top:
    ```python
-   EQUATIONS_CSV = "/content/drive/MyDrive/Papers/GSOC/FeynmanEquations.csv"
+   EQUATIONS_CSV = "/content/drive/MyDrive/FeynmanEquations.csv"
    DATA_DIR = "/content/Feynman_with_units"
    ```
 4. Run all cells
